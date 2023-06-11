@@ -2,7 +2,7 @@
 - 👀 I’m interested in cool stuff.
 - 🌱 I’m currently learning medicore stuff.
 - 💞️ I’m looking to collaborate on cool stuff.
-- 📫 How to reach me will be updated soon.
+- 📫 You can reach me at hello@stuffbymack.info
 
 <!---
 stuffbymack/stuffbymack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
